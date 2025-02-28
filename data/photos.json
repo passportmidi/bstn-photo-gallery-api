@@ -1,0 +1,170 @@
+[
+  {
+    "id": "6be619d5-de2c-4f62-ac1b-bd2e36d71ab9",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-00.png",
+    "photoDescription": "Looking up to the Manhattan Bridge, in New York City, New York.",
+    "photographer": "Greg Hooper",
+    "tags": ["New York", "Bridge", "Skyline", "Cars"]
+  },
+  {
+    "id": "8f86c7f4-bd18-4e4a-9328-a54a189dd5ba",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-01.png",
+    "photoDescription": "Saint Louis Art Museum, a white concrete building, under white sky during daytime.",
+    "photographer": "Charlene Thomas",
+    "tags": ["Missouri", "Buildings", "Trees"]
+  },
+  {
+    "id": "c8ffcfd1-1ff1-4114-bbf1-a023c4a24f9d",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-02.png",
+    "photoDescription": "Aerial view of city buildings in New York City, New York.",
+    "photographer": "Malik Johnson",
+    "tags": ["New York", "Buildings", "Skyline"]
+  },
+  {
+    "id": "8cbf5a70-6cb8-4cce-a4c2-4cde4f84c513",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-03.png",
+    "photoDescription": "A bare tree in front of the Nancy and Rich Kinder Building at the Museum of Fine Arts Houston.",
+    "photographer": "Elena Rossi",
+    "tags": ["Texas", "Buildings", "Skyline"]
+  },
+  {
+    "id": "37c67839-4608-4994-8ab6-ef9ad609df70",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-04.png",
+    "photoDescription": "A view of the Crystal Bridges Museum of American Art from across the water.",
+    "photographer": "Amara Okoye",
+    "tags": ["Arizona", "Museum", "Buildings"]
+  },
+  {
+    "id": "9d8e239c-3953-4822-83f2-ccdd98b8c5e6",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-05.png",
+    "photoDescription": "A train traveling through Chicago, Illinois next to tall buildings.",
+    "photographer": "Ali Novak-Greene",
+    "tags": ["Illinois", "Subway", "Buildings", "Bridge"]
+  },
+  {
+    "id": "238117b8-6c3b-4f0d-b1c3-97e232980e62",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-06.png",
+    "photoDescription": "Green trees beside the brown building of Ringling Museum in Sarasota, Florida during daytime.",
+    "photographer": "Sofia Alvarez",
+    "tags": ["Florida", "Buildings"]
+  },
+  {
+    "id": "89eff543-8ecf-4a64-abbc-495b6443be6f",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-07.png",
+    "photoDescription": "A view of the front of the Smithsonian Castle when arriving from The National Mall.",
+    "photographer": "Dariya Menon",
+    "tags": ["Washington", "Cathedral"]
+  },
+  {
+    "id": "7cf76704-9508-4632-8077-caec02d1929e",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-08.png",
+    "photoDescription": "White concrete building nested in the Bayou Ben Collection and Gardens, a facility of the Museum of Fine Arts.",
+    "photographer": "Nico Pascucci",
+    "tags": ["Texas", "House", "Trees"]
+  },
+  {
+    "id": "beffcc61-7d93-47f7-9938-5f0df5ef3bea",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-09.png",
+    "photoDescription": "A group of people walking across Brooklyn Bridge in Brooklyn, New York.",
+    "photographer": "Wei Zhang",
+    "tags": ["New York", "Bridge", "Skyline"]
+  },
+  {
+    "id": "c27d7e20-b5d1-44fa-854d-9ba5bc2c9fbf",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-10.png",
+    "photoDescription": "A worm's-view of a brown brick building in Williamsburg, New York.",
+    "photographer": "Greg Hooper",
+    "tags": ["New York", "Buildings"]
+  },
+  {
+    "id": "d82abf42-e5dd-4726-a4fd-3eb13ce72c53",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-11.png",
+    "photoDescription": "Looking out to the courtyard from the column-filled terrace at Ringling Museum in Sarasota, Florida.",
+    "photographer": "Sofia Alvarez",
+    "tags": ["Florida", "Courtyard", "Columns"]
+  },
+  {
+    "id": "f31d524c-7ce8-446b-a4db-107cb089e4b4",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-12.png",
+    "photoDescription": "An old, run down, building sitting in the middle of a field.",
+    "photographer": "Maxime Deserres",
+    "tags": ["Oregon", "Buildings"]
+  },
+  {
+    "id": "c432adb0-df2d-4f6b-83d0-bfda8d99fca5",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-13.png",
+    "photoDescription": "A yellow cab among a city of bricks in New York City, New York.",
+    "photographer": "Val Cohen",
+    "tags": ["New York", "Taxi", "Buildings", "Cars"]
+  },
+  {
+    "id": "e966674f-58d5-442e-8f42-5902e5ee6571",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-14.png",
+    "photoDescription": "A man riding a skateboard down a sidewalk, outside of the Crystal Bridges Museum of American Art in Arizona.",
+    "photographer": "Amara Okoye",
+    "tags": ["Arizona", "Courtyard", "Path"]
+  },
+  {
+    "id": "94e05778-bcdb-48fa-b140-ef398b48e3c1",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-15.png",
+    "photoDescription": "Music City Center located in downtown Nashville, Tennessee.",
+    "photographer": "Ash Tanaka",
+    "tags": ["Tennessee", "Museum", "Buildings"]
+  },
+  {
+    "id": "2ce85c21-4a1e-4b05-b147-8c4957706d3e",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-16.png",
+    "photoDescription": "Shadows on a building nested in the Bayou Ben Collection and Gardens, a facility of the Museum of Fine Arts.",
+    "photographer": "Nico Pascucci",
+    "tags": ["Texas", "House", "Buildings"]
+  },
+  {
+    "id": "13307e72-f159-4a2f-ac09-f78bf3c7ce22",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-17.png",
+    "photoDescription": "An abandoned church and well, remnants of an old western town in Oregon.",
+    "photographer": "Maxime Deserres",
+    "tags": ["Oregon", "House"]
+  },
+  {
+    "id": "d8300fda-61f8-42da-8c21-212f01a48b96",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-18.png",
+    "photoDescription": "Cables of the Brooklyn Bridge at sunset, creating a geometric pattern across the sky.",
+    "photographer": "Thandiwe Ndugu",
+    "tags": ["New York", "Bridge", "Buildings"]
+  },
+  {
+    "id": "c2e3a895-eaf0-42a8-8f9b-4722300ba847",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-19.png",
+    "photoDescription": "Curved lines form the white exterior of the Getty Museum in Los Angeles, California.",
+    "photographer": "Kai Muller",
+    "tags": ["California", "Museum", "Columns"]
+  },
+  {
+    "id": "aae2a3f0-24d0-4410-bbd7-d63cfbe1c671",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-20.png",
+    "photoDescription": "Orange metro tram on the street during daytime in downtown Houston, Texas.",
+    "photographer": "Ingrid Smith",
+    "tags": ["Texas", "Subway", "Train"]
+  },
+  {
+    "id": "4731eeb7-64c7-4d56-933f-e3c17be293a8",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-21.png",
+    "photoDescription": "White tiles and coastal blue windows form the geometric exterior of the Getty Museum in Los Angeles, California.",
+    "photographer": "Kai Muller",
+    "tags": ["California", "Museum", "Buildings"]
+  },
+  {
+    "id": "df129bd3-452b-41ca-bc59-bc9b1c606e09",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-22.png",
+    "photoDescription": "Brick apartment buildings in downtown Nashville, Tennessee.",
+    "photographer": "Ash Tanaka",
+    "tags": ["Tennessee", "Buildings"]
+  },
+  {
+    "id": "6321c961-de3b-44a3-9725-62a0560135db",
+    "photo": "https://unit-3-project-c5faaab51857.herokuapp.com/photos/Photo-23.png",
+    "photoDescription": "Looking down the columns at an amphitheater in Arlington, Virginia.",
+    "photographer": "Alejandro Gomez",
+    "tags": ["Virginia", "Columns"]
+  }
+]
