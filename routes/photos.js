@@ -7,4 +7,15 @@ router.route("/").get((_req, res) => {
   res.json(photos);
 });
 
+router.route("/:id").get((req, res) => {
+  const id = req.params.id;
+  const photo = photos.filter((p) => p.id === id);
+
+  if (!photo.length) {
+    return res.sendStatus(404);
+  }
+
+  res.json(photo);
+});
+
 export default router;
