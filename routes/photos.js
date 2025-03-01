@@ -11,6 +11,7 @@ router.route("/:id").get((req, res) => {
   const id = req.params.id;
   const photo = photos.filter((p) => p.id === id);
 
+  // if photo array returns empty
   if (!photo.length) {
     return res.sendStatus(404);
   }
