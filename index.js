@@ -8,6 +8,9 @@ const app = express();
 
 app.use(express.json());
 
+// serve images
+app.use(express.static("public"));
+
 // enables all origins
 app.use(cors());
 
