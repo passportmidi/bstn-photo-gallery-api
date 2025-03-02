@@ -1,5 +1,6 @@
 import express from "express";
 import photos from "../data/photos.json" with {type: "json"};
+import comments from "../data/comments.json" with {type: "json"};
 
 const router = express.Router();
 
@@ -17,6 +18,15 @@ router.route("/:id").get((req, res) => {
   }
 
   res.json(photo);
+});
+
+router.route("/:id/comments").get((req, res) => {
+  const id = req.params.id;
+  const photoComments = comments.filter((c) => c.id === id);
+  const commentsArray = photoComments[0].comments;
+  console.log(commentsArray);
+
+  res.json(commentsArray);
 });
 
 export default router;
