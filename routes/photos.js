@@ -19,7 +19,7 @@ router.route("/:id").get((req, res) => {
     return res.sendStatus(404);
   }
 
-  res.json(photo);
+  res.json(photo[0]);
 });
 
 router
