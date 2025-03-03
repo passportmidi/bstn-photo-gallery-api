@@ -6,10 +6,12 @@ import fs from "fs";
 
 const router = express.Router();
 
+// get all photos
 router.route("/").get((_req, res) => {
   res.json(photos);
 });
 
+// get individual photo
 router.route("/:id").get((req, res) => {
   const id = req.params.id;
   const photo = photos.filter((p) => p.id === id);
@@ -22,6 +24,7 @@ router.route("/:id").get((req, res) => {
   res.json(photo[0]);
 });
 
+// get and post comments
 router
   .route("/:id/comments")
   .get((req, res) => {
@@ -55,7 +58,6 @@ router
         res.status(201).json(comments[id]);
       }
     } catch (error) {
-      // TODO: will return a 400 error code if name, or comment are not included in the object, or if name, or comment are not strings
       res.status(400).send(`${error}`);
     }
   });
