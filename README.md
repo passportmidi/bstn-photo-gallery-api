@@ -1,1 +1,1 @@
-# sydney-putnam-snaps-api
+# bstn-photo-gallery-api
